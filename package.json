@@ -2,7 +2,7 @@
   "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rksahu01.github.io/openweather",
+  "homepage": "http://ayzthp.github.io/Weath",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
